@@ -15,6 +15,7 @@ This repository contains code for integrating Twilio with Voiceflow to create in
 4. Fill in the necessary environment variables in the `.env` file:
    - `PORT`: Port number to run the server on.
    - `VOICEFLOW_API_KEY`: Your Voiceflow API Key.
+   - `GENERAL_SERVICE_ENDPOINT`: Add "https://general-runtime.voiceflow.com/" here.
 5. Run the application using `npm start`.
 
 ## Usage
